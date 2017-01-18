@@ -1,1 +1,8 @@
 /* file for your css */
+.redOutline {
+  border: 2pt solid red;
+}
+
+.greenOutline {
+  border: 1pt solid green;
+}
